@@ -1,0 +1,11 @@
+{
+  "name": "interview-questions-practice",
+  "version": "1.0.0",
+  "description": "Welcome to the **Interview Questions Practice** repository! This is a personal repository where I practice coding interview questions from various companies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
