@@ -31,6 +31,9 @@ const ballot2 = new Ballot(["Bob", "Charlie", "Alice"]);
 const ballot3 = new Ballot(["Charlie", "Alice", "Bob"]);
 
 const ballots = [ballot1, ballot2, ballot3];
+
+const result = getResults(ballots)
+result === ["Alice", "Bob", "Charlie"]
 ```
 
 Calling **getResults(ballots)** will return:
